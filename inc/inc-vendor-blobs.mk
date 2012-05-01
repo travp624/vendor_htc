@@ -35,9 +35,12 @@ PRODUCT_COPY_FILES += \
     vendor/htc/inc/proprietary/libGLESv1_CM_adreno200.so:/system/lib/egl/libGLESv1_CM_adreno200.so \
     vendor/htc/inc/proprietary/libGLESv2_adreno200.so:/system/lib/egl/libGLESv2_adreno200.so \
     vendor/htc/inc/proprietary/libq3dtools_adreno200.so:/system/lib/egl/libq3dtools_adreno200.so \
+    vendor/htc/inc/proprietary/eglsubAndroid.so:/system/lib/egl/eglsubAndroid.so \
+    vendor/htc/inc/proprietary/libsc-a2xx.so:/system/lib/libsc-a2xx.so \
     vendor/htc/inc/proprietary/libOmxVdec.so:/system/lib/libOmxVdec.so \
     vendor/htc/inc/proprietary/libgsl.so:/system/lib/libgsl.so \
     vendor/htc/inc/proprietary/libhtc_acoustic.so:/system/lib/libhtc_acoustic.so \
     vendor/htc/inc/proprietary/libhtc_ril.so:/system/lib/libhtc_ril.so \
     vendor/htc/inc/proprietary/liboemcamera.so:/system/lib/liboemcamera.so \
     vendor/htc/inc/proprietary/Incredible_C_20100921_VZW_Neo_324016_v10_default.acdb:/system/etc/firmware/Incredible_C_20100921_VZW_Neo_324016_v10_default.acdb
+
